@@ -7,13 +7,13 @@ using System.Threading.Tasks;
 //Важно! Следует к библиотеке классов подключать файл tyuiu.cources.programming.interfaces.dll
 using tyuiu.cources.programming.interfaces.Sprint1;
 
-namespace Tyuiu.BiryukovAY.Sprint1.Task0.V0.Lib
+namespace Tyuiu.BiryukovAY.Sprint1.Task0.V8.Lib
 {
     public class DataService : ISprint1Task0V0
     {
         public double Calculate()
         {
-            return 10 / (2 + 3);
+            return 15 / 2 / 4;
         }
     }
 }
