@@ -13,4 +13,4 @@ namespace Tyuiu.BiryukovAY.Sprint1.Task0.V8.Test
             Assert.AreEqual(1, res);
         }
     }
-}
+} 
