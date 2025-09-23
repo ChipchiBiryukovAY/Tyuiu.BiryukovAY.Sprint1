@@ -5,7 +5,8 @@ namespace Tyuiu.BiryukovAY.Sprint1.Task1.V8.Lib
     {
         public double Calculate(double y, double x)
         {
-            return (x * Math.PI) / y;
+            double res = (x * Math.PI) / y;
+            return Math.Round(res, 2);
         }
     }
 }
