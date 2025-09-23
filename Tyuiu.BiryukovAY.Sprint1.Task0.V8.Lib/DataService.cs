@@ -5,6 +5,6 @@ public class DataService : ISprint1Task0V8
 {
     public double Calculate()
     {
-        return 15 / 2 / 4;
+        return 15.0 / 2.0 / 4.0;
     }
 }
