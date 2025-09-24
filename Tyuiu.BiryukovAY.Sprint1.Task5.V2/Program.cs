@@ -5,24 +5,19 @@ internal class Program
 {
     static void Main()
     {
-        DataService ds = new DataService();
-
-        Console.WriteLine("***************************************************************************");
-        Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
-        Console.WriteLine("***************************************************************************");
-
-        Console.WriteLine("Введите температуру в градусах Фаренгейта:");
+        Console.WriteLine("Преобразование Фаренгейт → Цельсий");
+        Console.Write("Введите температуру в °F: ");
         double fahrenheit = Convert.ToDouble(Console.ReadLine());
 
-        Console.WriteLine("***************************************************************************");
-        Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
-        Console.WriteLine("***************************************************************************");
-        Console.WriteLine("Температура в градусах Цельсия:");
+        // Преобразуем и выводим результат
         int celsius = FahrenheitToCelsius(fahrenheit);
-        Console.WriteLine(celsius);
+        Console.WriteLine($"Температура в °C: {celsius}");
+    }
 
-        Console.ReadKey();
-
+    public static int FahrenheitToCelsius(double fahrenheit)
+    {
+        double celsius = (fahrenheit - 32) * 5 / 9;
+        return Convert.ToInt32(celsius);
     }
 }
 
