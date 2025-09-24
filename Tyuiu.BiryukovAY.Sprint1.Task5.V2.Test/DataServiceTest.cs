@@ -10,7 +10,7 @@ namespace Tyuiu.BiryukovAY.Sprint1.Task5.V2.Test
         {
             DataService converter = new DataService();
 
-            int result = converter.FahrenheitToCelsius(32);
+            double result = converter.FahrenheitToCelsius(32);
 
             Assert.AreEqual(0, result);
         }
