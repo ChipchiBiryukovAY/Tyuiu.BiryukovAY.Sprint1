@@ -18,7 +18,7 @@ internal class Program
         Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("Температура в градусах Цельсия:");
-        int celsius = Converter.FahrenheitToCelsius(fahrenheit);
+        int celsius = FahrenheitToCelsius(fahrenheit);
         Console.WriteLine(celsius);
 
         Console.ReadKey();
