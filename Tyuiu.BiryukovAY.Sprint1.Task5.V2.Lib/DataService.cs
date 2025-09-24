@@ -7,9 +7,7 @@ namespace Tyuiu.BiryukovAY.Sprint1.Task5.V2.Lib
     {
         public int FahrenheitToCelsius(double fahrenheit)
         {
-            double celsius = (fahrenheit - 32) * 5 / 9;
-            int result = (int)Math.Round(celsius, MidpointRounding.AwayFromZero);
-            return result;
+            return Convert.ToInt32((fahrenheit - 32) * 5 / 9);
         }
     }
 }
