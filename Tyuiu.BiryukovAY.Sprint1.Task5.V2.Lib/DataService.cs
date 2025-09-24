@@ -5,9 +5,10 @@ namespace Tyuiu.BiryukovAY.Sprint1.Task5.V2.Lib
 {
     public class DataService : ISprint1Task5V2
     {
-        public double ISprint1Task5V2FahrenheitToCelsius(double fahrenheit)
+        public double FahrenheitToCelsius(double fahrenheit)
         {
-            return Convert.ToInt32((fahrenheit - 32) * 5 / 9);
+            double celsius = (fahrenheit - 32) * 5.0 / 9.0;
+            return Convert.ToInt32(celsius);
         }
     }
 }
