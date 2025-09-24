@@ -9,7 +9,7 @@ namespace Tyuiu.BiryukovAY.Sprint1.Task3.V14.Lib
             double tens = (number / 10) % 10;  // десятки
             double hundreds = number / 100;    // сотни
 
-            double reversed = units * 100 + tens * 10 + hundreds;
+            double reversed = Math.Floor(units) * 100 + Math.Floor(tens) * 10 + Math.Floor(hundreds);
             return reversed;
         }
     }
