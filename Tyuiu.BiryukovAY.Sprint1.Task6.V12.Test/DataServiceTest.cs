@@ -6,7 +6,9 @@
         [TestMethod]
         public void CheckLastWordRepetition_WithRepeatedLastWord_ReturnsTrue()
         {
-            var checker = new TextChecker();
+            var checker = new DataService();
             bool result = checker.CheckLastWordRepetition("привет мир привет");
             Assert.IsTrue(result);
         }
+    }
+}

@@ -11,29 +11,20 @@ namespace Tyuiu.BiryukovAY.Sprint1.Task6.V12.Lib
         if (string.IsNullOrWhiteSpace(text))
             return false;
 
-        string[] words = text.Split(' ', System.StringSplitOptions.RemoveEmptyEntries);
+        string[] words = text.Split(' ');
 
-        if (words.Length == 0)
+        if (words.Length < 2)
             return false;
 
-        string lastWord = CleanWord(words[^1]);
-
-        if (string.IsNullOrEmpty(lastWord))
-            return false;
+        string lastWord = words[words.Length - 1].ToLower();
 
         for (int i = 0; i < words.Length - 1; i++)
         {
-            string currentWord = CleanWord(words[i]);
-            if (currentWord.Equals(lastWord, System.StringComparison.OrdinalIgnoreCase))
+            if (words[i].ToLower() == lastWord)
                 return true;
         }
 
         return false;
-    }
-
-    private string CleanWord(string word)
-    {
-        return new string(word.Where(c => !char.IsPunctuation(c)).ToArray());
     }
 }
 }

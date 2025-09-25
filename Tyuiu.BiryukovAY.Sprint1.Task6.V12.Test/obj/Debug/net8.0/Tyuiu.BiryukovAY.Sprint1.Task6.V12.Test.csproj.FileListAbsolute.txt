@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Tyuiu.BiryukovAY.Sprint1\Tyuiu.BiryukovAY.Sprint1.Task6.V12.Test\bin\Debug\net8.0\.msCoverageSourceRootsMapping_Tyuiu.BiryukovAY.Sprint1.Task6.V12.Test
+C:\Users\User\source\repos\Tyuiu.BiryukovAY.Sprint1\Tyuiu.BiryukovAY.Sprint1.Task6.V12.Test\bin\Debug\net8.0\.msCoverageExtensionSourceRootsMapping_Tyuiu.BiryukovAY.Sprint1.Task6.V12.Test
+C:\Users\User\source\repos\Tyuiu.BiryukovAY.Sprint1\Tyuiu.BiryukovAY.Sprint1.Task6.V12.Test\obj\Debug\net8.0\Tyuiu.BiryukovAY.Sprint1.Task6.V12.Test.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Tyuiu.BiryukovAY.Sprint1\Tyuiu.BiryukovAY.Sprint1.Task6.V12.Test\obj\Debug\net8.0\Tyuiu.BiryukovAY.Sprint1.Task6.V12.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Tyuiu.BiryukovAY.Sprint1\Tyuiu.BiryukovAY.Sprint1.Task6.V12.Test\obj\Debug\net8.0\Tyuiu.BiryukovAY.Sprint1.Task6.V12.Test.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Tyuiu.BiryukovAY.Sprint1\Tyuiu.BiryukovAY.Sprint1.Task6.V12.Test\obj\Debug\net8.0\Tyuiu.BiryukovAY.Sprint1.Task6.V12.Test.AssemblyInfo.cs
+C:\Users\User\source\repos\Tyuiu.BiryukovAY.Sprint1\Tyuiu.BiryukovAY.Sprint1.Task6.V12.Test\obj\Debug\net8.0\Tyuiu.BiryukovAY.Sprint1.Task6.V12.Test.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Tyuiu.BiryukovAY.Sprint1\Tyuiu.BiryukovAY.Sprint1.Task6.V12.Test\obj\Debug\net8.0\Tyuiu.BiryukovAY.Sprint1.Task6.V12.Test.gentestingplatformentrypointinputcache.cache
+C:\Users\User\source\repos\Tyuiu.BiryukovAY.Sprint1\Tyuiu.BiryukovAY.Sprint1.Task6.V12.Test\obj\Debug\net8.0\Tyuiu.BiryukovAY.Sprint1.Task6.V12.Test.genautoregisteredextensionsinputcache.cache
+C:\Users\User\source\repos\Tyuiu.BiryukovAY.Sprint1\Tyuiu.BiryukovAY.Sprint1.Task6.V12.Test\obj\Debug\net8.0\AutoRegisteredExtensions.cs
+C:\Users\User\source\repos\Tyuiu.BiryukovAY.Sprint1\Tyuiu.BiryukovAY.Sprint1.Task6.V12.Test\obj\Debug\net8.0\TestPlatformEntryPoint.cs
+C:\Users\User\source\repos\Tyuiu.BiryukovAY.Sprint1\Tyuiu.BiryukovAY.Sprint1.Task6.V12.Test\obj\Debug\net8.0\Tyuiu.BiryukovAY.Sprint1.Task6.V12.Test.sourcelink.json
