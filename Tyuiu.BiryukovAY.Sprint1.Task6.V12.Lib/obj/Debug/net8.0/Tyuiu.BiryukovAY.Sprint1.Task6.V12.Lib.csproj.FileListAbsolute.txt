@@ -1,6 +1,0 @@
-C:\Users\User\source\repos\Tyuiu.BiryukovAY.Sprint1\Tyuiu.BiryukovAY.Sprint1.Task6.V12.Lib\obj\Debug\net8.0\Tyuiu.BiryukovAY.Sprint1.Task6.V12.Lib.csproj.AssemblyReference.cache
-C:\Users\User\source\repos\Tyuiu.BiryukovAY.Sprint1\Tyuiu.BiryukovAY.Sprint1.Task6.V12.Lib\obj\Debug\net8.0\Tyuiu.BiryukovAY.Sprint1.Task6.V12.Lib.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\User\source\repos\Tyuiu.BiryukovAY.Sprint1\Tyuiu.BiryukovAY.Sprint1.Task6.V12.Lib\obj\Debug\net8.0\Tyuiu.BiryukovAY.Sprint1.Task6.V12.Lib.AssemblyInfoInputs.cache
-C:\Users\User\source\repos\Tyuiu.BiryukovAY.Sprint1\Tyuiu.BiryukovAY.Sprint1.Task6.V12.Lib\obj\Debug\net8.0\Tyuiu.BiryukovAY.Sprint1.Task6.V12.Lib.AssemblyInfo.cs
-C:\Users\User\source\repos\Tyuiu.BiryukovAY.Sprint1\Tyuiu.BiryukovAY.Sprint1.Task6.V12.Lib\obj\Debug\net8.0\Tyuiu.BiryukovAY.Sprint1.Task6.V12.Lib.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\Tyuiu.BiryukovAY.Sprint1\Tyuiu.BiryukovAY.Sprint1.Task6.V12.Lib\obj\Debug\net8.0\Tyuiu.BiryukovAY.Sprint1.Task6.V12.Lib.sourcelink.json
